@@ -19,3 +19,4 @@ The implementation of the recommender system successfully provided personalized 
 **Conclusion:**
 This project highlights the importance of recommender systems in enhancing user experiences in various domains. The use of collaborative filtering proves to be a powerful technique for predicting user preferences. Future improvements could include incorporating deep learning techniques, hybrid recommendation approaches, or additional contextual information to further refine the recommendations.
 
+![Image](https://github.com/user-attachments/assets/2c7a0b8d-192f-4355-907b-43cc885e1f63)
